@@ -3,6 +3,7 @@
 #include<conio.h>
 int main()
 {
+	printf("Git Print Test 2");
     int boardvalue1=0,boardvalue2=0,dice1,dice2,i;
     int board[50];
     for(i=0;i<50;i++)
